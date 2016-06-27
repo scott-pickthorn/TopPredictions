@@ -1,0 +1,19 @@
+body { 
+  background: url(img/fantasyBackground.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#container{
+	padding-top: auto;
+	background-color:#ffffff;
+	text-align:center;
+}
+
+h1 h4{
+	//margin: auto;
+	//padding: auto;
+    text-align:center;
+    display:table-cell;
+}
