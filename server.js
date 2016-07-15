@@ -3,9 +3,13 @@ var app = express();
 var mongojs = require('mongojs');
 var db = mongojs('playerList', ['playerList']);
 var bodyParser = require('body-parser');
-
+var http = require('http');
 app.use(express.static(__dirname + '/public'));
 app.use(bodyParser.json());
+
+
+
+
 
 app.get('/playerList', function (req, res) {
   console.log('I received a GET request');
@@ -35,13 +39,21 @@ app.put('/playerList/:id', function (req, res) {
   var id = req.params.id;
   db.playerList.findAndModify({
     query: {_id: mongojs.ObjectId(id)},
-    update: {$set: {name: req.body.name, team: req.body.team, pts: req.body.pts}},
+    update: {$set: {onTeam: req.body.onTeam}},
     new: true}, function (err, doc) {
       res.json(doc);
     }
   );
 });
+app.set('port', process.env.PORT || 3000);
 
-app.listen(3000);
-console.log("Server running on port 3000");
+http.createServer(app).listen(app.get('port'),
+	function(){
+		console.log("Express server listening on port " + app.get('port'));
+});
+
+
+
+//app.listen(3000);
+//console.log("Server running on port 3000");
 
