@@ -4,12 +4,9 @@ var mongojs = require('mongojs');
 var db = mongojs('playerList', ['playerList']);
 var bodyParser = require('body-parser');
 var http = require('http');
+
 app.use(express.static(__dirname + '/public'));
 app.use(bodyParser.json());
-
-
-
-
 
 app.get('/playerList', function (req, res) {
   console.log('I received a GET request');
@@ -20,17 +17,17 @@ app.get('/playerList', function (req, res) {
   });
 });
 
-app.post('/playerList', function (req, res) {
-
-  db.playerList.insert(req.body, function(err, doc) {
-    res.json(doc);
-  });
-});
-
 app.get('/playerList/:id', function (req, res) {
   var id = req.params.id;
 
   db.playerList.findOne({_id: mongojs.ObjectId(id)}, function (err, doc) {
+    res.json(doc);
+  });
+});
+
+app.post('/playerList', function (req, res) {
+
+  db.playerList.insert(req.body, function(err, doc) {
     res.json(doc);
   });
 });
@@ -45,15 +42,11 @@ app.put('/playerList/:id', function (req, res) {
     }
   );
 });
+
 app.set('port', process.env.PORT || 3000);
 
-http.createServer(app).listen(app.get('port'),
-	function(){
-		console.log("Express server listening on port " + app.get('port'));
+http.createServer(app).listen(app.get('port'), function(){
+		console.log("server listening on port " + app.get('port'));
 });
 
-
-
-//app.listen(3000);
-//console.log("Server running on port 3000");
 
