@@ -32,15 +32,15 @@
 		  <thead>
 			<tr>
 			  <th>Rank</th>
-			  <th>Position</th>
-			  <th>Name</th>         
-			  <th>2015 Fantasy Pts</th>
-			  <th>2016 Fantasy Prediction</th>
-			  <th>2016 ESPN.com Predictions</th>
+			  <th><a href="#" ng-click="top?top = false:top = true; filter('pos');">Position</a></th>
+			  <th><a href="#" ng-click="top?top = false:top = true; filter('name');">Name</a></th>         
+			  <th><a href="#" ng-click="top?top = false:top = true; filter('tot15Pts');">2015 Fantasy Pts</a></th>
+			  <th><a href="#" ng-click="top?top = false:top = true; filter('clf');">2016 Fantasy Prediction</a></th>
+			  <th><a href="#" ng-click="top?top = false:top = true; filter('espn');">2016 ESPN.com Predictions</a></th>
 			</tr>
 		  </thead>
 		  <tbody>
-			<tr ng-repeat="player in playerList | filter: {'pos': p} | orderBy: '-pts'" ng-class="$index % 2 == 0? 'even': 'odd'">
+			<tr ng-repeat="player in playerList | filter: {'pos': p} | orderBy: f" ng-class="$index % 2 == 0? 'even': 'odd'">
 			  <td>{{$index + 1}}</td>
 			  <td>{{player.pos}}</td>
 			  <td><a href="#modal" data-toggle="modal" data-target="#myModal" ng-click="">{{player.name}}</a></td>
