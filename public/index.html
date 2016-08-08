@@ -37,11 +37,10 @@
 			  <th>2015 Fantasy Pts</th>
 			  <th>2016 Fantasy Prediction</th>
 			  <th>2016 ESPN.com Predictions</th>
-			  <th>&nbsp;</th>
 			</tr>
 		  </thead>
 		  <tbody>
-			<tr ng-repeat="player in playerList | filter: {'pos': p} | orderBy: '-pts'">
+			<tr ng-repeat="player in playerList | filter: {'pos': p} | orderBy: '-pts'" ng-class="$index % 2 == 0? 'even': 'odd'">
 			  <td>{{$index + 1}}</td>
 			  <td>{{player.pos}}</td>
 			  <td><a href="#modal" data-toggle="modal" data-target="#myModal" ng-click="">{{player.name}}</a></td>
