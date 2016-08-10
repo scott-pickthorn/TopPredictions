@@ -14,7 +14,7 @@
 	<body>
 	<div class="container" id="container">
 		
-		<h1 class="container">NFL	Fantasy Football Draft Rankings</h1>
+		<h1 class="container">NFL Fantasy Football Draft Rankings</h1>
 		<h4 class="container">where you go to find the most technically advanced fantasy football predictions</h4>
 		<br />
 	</div>
@@ -32,22 +32,21 @@
 		  <thead>
 			<tr>
 			  <th>Rank</th>
-			  <th>Position</th>
-			  <th>Name</th>         
-			  <th>Season Passing Yards</th>
-			  <th>2014 Fantasy Pts</th>
-			  <th>Action</th>
-			  <th>&nbsp;</th>
+			  <th><a href="#" ng-click="top?top = false:top = true; filter('pos');">Position</a></th>
+			  <th><a href="#" ng-click="top?top = false:top = true; filter('name');">Name</a></th>         
+			  <th><a href="#" ng-click="top?top = false:top = true; filter('tot15Pts');">2015 Fantasy Pts</a></th>
+			  <th><a href="#" ng-click="top?top = false:top = true; filter('clf');">2016 Fantasy Prediction</a></th>
+			  <th><a href="#" ng-click="top?top = false:top = true; filter('espn');">2016 ESPN.com Predictions</a></th>
 			</tr>
 		  </thead>
 		  <tbody>
-			<tr ng-repeat="player in playerList | filter: {'pos': p} | orderBy: '-pts'">
+			<tr ng-repeat="player in playerList | filter: {'pos': p} | orderBy: f" ng-class="$index % 2 == 0? 'even': 'odd'">
 			  <td>{{$index + 1}}</td>
 			  <td>{{player.pos}}</td>
 			  <td><a href="#modal" data-toggle="modal" data-target="#myModal" ng-click="">{{player.name}}</a></td>
-			  <td>{{player.team}}</td>
-			  <td>{{player.pts}}</td>
-			  <td><button ng-class="onTeam ? 'btn btn-info' : 'btn btn-success'" ng-click = "player.onTeam ? offTeam() : onTeam()";>Add</button></td>
+			  <td>{{player.tot15Pts}}</td>
+			  <td>{{player.clf}}</td>
+			  <td>{{player.espn}}</td>
 			</tr>
 		  </tbody>
 		</table>
@@ -59,7 +58,7 @@
 			</div>
 			<div class="modal-body">
 			<div class="linechart">
-				
+
 			</div>
 			<div class="modal-footer">
 			<button type="button" class="btn btn-default" data-dismiss="modal" ng-click="refresh()">close</button>

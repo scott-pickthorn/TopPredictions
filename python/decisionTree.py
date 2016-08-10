@@ -5,14 +5,18 @@ import numpy as np
 cl = MongoClient()
 db = cl.playerList
 
-collection = db.playerList
+collection = db.data
 cursor = collection.find()
 feature = list()
 target = list()
+names = list()
+espn = list()
 i = 0
 for doc in cursor:
-	feature.append([ doc['passYds'], doc['passTds'], doc['passInt'], doc['rushYds']])
-	target.append([doc['pts']])
+	names.append(doc['name'])
+	feature.append([doc['avgPts'], doc['gms15'], doc['week1'], doc['week16'], doc['week17']])
+	target.append(doc['tot15Pts'])
+	espn.append(doc['espn'])
 	i += 1
 X = np.asarray(feature)
 y = np.asarray(target, dtype="|S6")
@@ -34,9 +38,8 @@ predictions = predict(my_classifier, X_test)
 
 from sklearn.metrics import accuracy_score
 
-for x in range(0, 10):
-	print (predictions[x], "<--->", y_test[x])
+for x in range(0, 58):
+	print (names[x], " | ", predictions[x].decode('UTF-8'), "<--->", y_test[x].decode('UTF-8'), "| espn ->", espn[x])
 
-#print(accuracy_score(y_test, predictions))
 
 
