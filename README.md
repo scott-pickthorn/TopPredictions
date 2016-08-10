@@ -14,12 +14,16 @@ in a separatge command line
 
 use mongo import to import the data.json file in the public folder
 ```mongoimport --db playerList --collection data --jsonArray --file TopPredictions/public/controllers/data.json```
+
 run the mongo server
 ```mongod```
 
 in another command prompt run the server
 ```node server```
 
-in a browser go to localhost:3000
+in a browser go to `http://localhost:3000`
 
-
+Todo(dev):
+-implement datascraping and automation
+-implement machine learning in node instead of python
+-calculate errors
