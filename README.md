@@ -16,7 +16,6 @@ use mongo import to import the data.json file in the public folder
 ```mongoimport --db playerList --collection data --jsonArray --file TopPredictions/public/controllers/data.json```
 
 run the mongo server
-```mongod```
 
 in another command prompt run the server
 ```node server```
