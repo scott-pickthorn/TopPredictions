@@ -3,7 +3,7 @@ myApp.controller('AppCtrl', ['$scope', '$http', function($scope, $http) {
     console.log("Hello World from controller");
 	$scope.p = "";
 	$scope.top = true;
-	$scope.f = '';
+	$scope.f = '-clf';
 	var refresh = function() {
 	  $http.get('/playerList').success(function(response) {
 		console.log("I got the data I requested");
@@ -38,7 +38,7 @@ myApp.controller('AppCtrl', ['$scope', '$http', function($scope, $http) {
 	$scope.graph = function(player){
 	$(function () {
 	console.log(player);
-	predAvg = player.tot15Pts/16;
+	predAvg = player.clf/16;
 	espnAvg = player.espn/16;
 	console.log(predAvg);
     $('#graphContainer').highcharts({
@@ -56,7 +56,8 @@ myApp.controller('AppCtrl', ['$scope', '$http', function($scope, $http) {
         },
         yAxis: {
             title: {
-                text: 'fantasy points'
+                text: 'fantasy points',
+				y: -20
             },
             plotLines: [{
                 value: 0,
@@ -68,9 +69,11 @@ myApp.controller('AppCtrl', ['$scope', '$http', function($scope, $http) {
             valueSuffix: '°C'
         },
         legend: {
-            layout: 'vertical',
-            align: 'right',
-            verticalAlign: 'middle',
+            layout: 'horizontal',
+            align: 'bottom',
+            verticalAlign: 'bottom',
+			y: 25,
+			x: 30,
             borderWidth: 0
         },
         series: [
