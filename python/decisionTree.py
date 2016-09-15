@@ -14,7 +14,7 @@ espn = list()
 i = 0
 for doc in cursor:
 	names.append(doc['name'])
-	feature.append([doc['avgPts'], doc['gms15'], doc['week1'], doc['week16'], doc['week17']])
+	feature.append([doc['avgPts'], doc['gms15'], doc['week15'], doc['week16'], doc['week17']])
 	target.append(doc['tot15Pts'])
 	espn.append(doc['espn'])
 	i += 1
@@ -38,7 +38,7 @@ predictions = predict(my_classifier, X_test)
 
 from sklearn.metrics import accuracy_score
 
-for x in range(0, 58):
+for x in range(0, 50):
 	print (names[x], " | ", predictions[x].decode('UTF-8'), "<--->", y_test[x].decode('UTF-8'), "| espn ->", espn[x])
 
 

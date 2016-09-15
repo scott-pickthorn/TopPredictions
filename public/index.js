@@ -1,6 +1,7 @@
 $(document).ready(function(){
   $('ul li').click(function(){
-    $('li').removeClass("active");
+	$('li').removeClass("active");
     $(this).addClass("active");
+  });
 });
-});
+

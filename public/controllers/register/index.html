@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html ng-app="register">
+	<head>
+		<title>Sign up here</title>
+	</head>
+	<body>
+	<div ng-controller="registerController">
+		<form ng-submit="submit" name="register">
+			<div><h4>Sign up here</h4></div>
+			<div>Username: <input  type="text" name="first" ng-model="user.username"/></div>
+			<div>Password <input type="password" ng-model="user.password" name="pword"/></div>
+			<input ng-click="getUser()" type="submit" value="submit"/>
+		</form>
+	</div>
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.12/angular.min.js"></script>
+		<script src="registerController.js"></script>
+	</body>
+</html>

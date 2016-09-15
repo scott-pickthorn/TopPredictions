@@ -1,0 +1,4650 @@
+[
+  {
+    "name": "Cam Newton",
+    "playerData": {
+      "name": "CAR",
+      "age": "CAR"
+    }
+  },
+  {
+    "name": "Tom Brady",
+    "playerData": {
+      "name": "NE",
+      "age": "NE"
+    }
+  },
+  {
+    "name": "Russell Wilson",
+    "playerData": {
+      "name": "SEA",
+      "age": "SEA"
+    }
+  },
+  {
+    "name": "Blake Bortles",
+    "playerData": {
+      "name": "JAC",
+      "age": "JAC"
+    }
+  },
+  {
+    "name": "Carson Palmer",
+    "playerData": {
+      "name": "ARI",
+      "age": "ARI"
+    }
+  },
+  {
+    "name": "Drew Brees",
+    "playerData": {
+      "name": "NO",
+      "age": "NO"
+    }
+  },
+  {
+    "name": "Aaron Rodgers",
+    "playerData": {
+      "name": "GB",
+      "age": "GB"
+    }
+  },
+  {
+    "name": "Kirk Cousins",
+    "playerData": {
+      "name": "WAS",
+      "age": "WAS"
+    }
+  },
+  {
+    "name": "Matthew Stafford",
+    "playerData": {
+      "name": "DET",
+      "age": "DET"
+    }
+  },
+  {
+    "name": "Eli Manning",
+    "playerData": {
+      "name": "NYG",
+      "age": "NYG"
+    }
+  },
+  {
+    "name": "Ryan Fitzpatrick",
+    "playerData": {
+      "name": "NYJ",
+      "age": "NYJ"
+    }
+  },
+  {
+    "name": "Philip Rivers",
+    "playerData": {
+      "name": "SD",
+      "age": "SD"
+    }
+  },
+  {
+    "name": "Jameis Winston",
+    "playerData": {
+      "name": "TB",
+      "age": "TB"
+    }
+  },
+  {
+    "name": "Derek Carr",
+    "playerData": {
+      "name": "OAK",
+      "age": "OAK"
+    }
+  },
+  {
+    "name": "Alex Smith",
+    "playerData": {
+      "name": "KC",
+      "age": "KC"
+    }
+  },
+  {
+    "name": "Tyrod Taylor",
+    "playerData": {
+      "name": "BUF",
+      "age": "BUF"
+    }
+  },
+  {
+    "name": "Ryan Tannehill",
+    "playerData": {
+      "name": "MIA",
+      "age": "MIA"
+    }
+  },
+  {
+    "name": "Antonio Brown",
+    "playerData": {
+      "name": "PIT",
+      "age": "PIT"
+    }
+  },
+  {
+    "name": "Andy Dalton",
+    "playerData": {
+      "name": "CIN",
+      "age": "CIN"
+    }
+  },
+  {
+    "name": "Devonta Freeman",
+    "playerData": {
+      "name": "ATL",
+      "age": "ATL"
+    }
+  },
+  {
+    "name": "Julio Jones",
+    "playerData": {
+      "name": "ATL",
+      "age": "ATL"
+    }
+  },
+  {
+    "name": "Matt Ryan",
+    "playerData": {
+      "name": "ATL",
+      "age": "ATL"
+    }
+  },
+  {
+    "name": "Adrian Peterson",
+    "playerData": {
+      "name": "MIN",
+      "age": "MIN"
+    }
+  },
+  {
+    "name": "Brandon Marshall",
+    "playerData": {
+      "name": "NYJ",
+      "age": "NYJ"
+    }
+  },
+  {
+    "name": "Ben Roethlisberger",
+    "playerData": {
+      "name": "PIT",
+      "age": "PIT"
+    }
+  },
+  {
+    "name": "Jay Cutler",
+    "playerData": {
+      "name": "CHI",
+      "age": "CHI"
+    }
+  },
+  {
+    "name": "Allen Robinson",
+    "playerData": {
+      "name": "JAC",
+      "age": "JAC"
+    }
+  },
+  {
+    "name": "Odell Beckham Jr.",
+    "playerData": {
+      "name": "NYG",
+      "age": "NYG"
+    }
+  },
+  {
+    "name": "DeAndre Hopkins",
+    "playerData": {
+      "name": "HOU",
+      "age": "HOU"
+    }
+  },
+  {
+    "name": "Marcus Mariota",
+    "playerData": {
+      "name": "TEN",
+      "age": "TEN"
+    }
+  },
+  {
+    "name": "Teddy Bridgewater",
+    "playerData": {
+      "name": "MIN",
+      "age": "MIN"
+    }
+  },
+  {
+    "name": "Doug Martin",
+    "playerData": {
+      "name": "TB",
+      "age": "TB"
+    }
+  },
+  {
+    "name": "Sam Bradford",
+    "playerData": {
+      "name": "PHI",
+      "age": "PHI"
+    }
+  },
+  {
+    "name": "DeAngelo Williams",
+    "playerData": {
+      "name": "PIT",
+      "age": "PIT"
+    }
+  },
+  {
+    "name": "Doug Baldwin",
+    "playerData": {
+      "name": "SEA",
+      "age": "SEA"
+    }
+  },
+  {
+    "name": "A.J. Green",
+    "playerData": {
+      "name": "CIN",
+      "age": "CIN"
+    }
+  },
+  {
+    "name": "Todd Gurley",
+    "playerData": {
+      "name": "LA",
+      "age": "LA"
+    }
+  },
+  {
+    "name": "Denver Broncos",
+    "playerData": {
+      "name": "DEN",
+      "age": "DEN"
+    }
+  },
+  {
+    "name": "Kansas City Chiefs",
+    "playerData": {
+      "name": "KC",
+      "age": "KC"
+    }
+  },
+  {
+    "name": "Lamar Miller",
+    "playerData": {
+      "name": "HOU",
+      "age": "HOU"
+    }
+  },
+  {
+    "name": "Rob Gronkowski",
+    "playerData": {
+      "name": "NE",
+      "age": "NE"
+    }
+  },
+  {
+    "name": "Arizona Cardinals",
+    "playerData": {
+      "name": "ARI",
+      "age": "ARI"
+    }
+  },
+  {
+    "name": "Houston Texans",
+    "playerData": {
+      "name": "HOU",
+      "age": "HOU"
+    }
+  },
+  {
+    "name": "David Johnson",
+    "playerData": {
+      "name": "ARI",
+      "age": "ARI"
+    }
+  },
+  {
+    "name": "Calvin Johnson",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Eric Decker",
+    "playerData": {
+      "name": "NYJ",
+      "age": "NYJ"
+    }
+  },
+  {
+    "name": "Chris Ivory",
+    "playerData": {
+      "name": "JAC",
+      "age": "JAC"
+    }
+  },
+  {
+    "name": "Larry Fitzgerald",
+    "playerData": {
+      "name": "ARI",
+      "age": "ARI"
+    }
+  },
+  {
+    "name": "Stephen Gostkowski",
+    "playerData": {
+      "name": "NE",
+      "age": "NE"
+    }
+  },
+  {
+    "name": "Matt Forte",
+    "playerData": {
+      "name": "NYJ",
+      "age": "NYJ"
+    }
+  },
+  {
+    "name": "Carolina Panthers",
+    "playerData": {
+      "name": "CAR",
+      "age": "CAR"
+    }
+  },
+  {
+    "name": "Brandin Cooks",
+    "playerData": {
+      "name": "NO",
+      "age": "NO"
+    }
+  },
+  {
+    "name": "Seattle Seahawks",
+    "playerData": {
+      "name": "SEA",
+      "age": "SEA"
+    }
+  },
+  {
+    "name": "Brian Hoyer",
+    "playerData": {
+      "name": "CHI",
+      "age": "CHI"
+    }
+  },
+  {
+    "name": "Pittsburgh Steelers",
+    "playerData": {
+      "name": "PIT",
+      "age": "PIT"
+    }
+  },
+  {
+    "name": "Danny Woodhead",
+    "playerData": {
+      "name": "SD",
+      "age": "SD"
+    }
+  },
+  {
+    "name": "Graham Gano",
+    "playerData": {
+      "name": "CAR",
+      "age": "CAR"
+    }
+  },
+  {
+    "name": "Demaryius Thomas",
+    "playerData": {
+      "name": "DEN",
+      "age": "DEN"
+    }
+  },
+  {
+    "name": "Joe Flacco",
+    "playerData": {
+      "name": "BAL",
+      "age": "BAL"
+    }
+  },
+  {
+    "name": "Latavius Murray",
+    "playerData": {
+      "name": "OAK",
+      "age": "OAK"
+    }
+  },
+  {
+    "name": "Allen Hurns",
+    "playerData": {
+      "name": "JAC",
+      "age": "JAC"
+    }
+  },
+  {
+    "name": "Minnesota Vikings",
+    "playerData": {
+      "name": "MIN",
+      "age": "MIN"
+    }
+  },
+  {
+    "name": "Frank Gore",
+    "playerData": {
+      "name": "IND",
+      "age": "IND"
+    }
+  },
+  {
+    "name": "Jarvis Landry",
+    "playerData": {
+      "name": "MIA",
+      "age": "MIA"
+    }
+  },
+  {
+    "name": "Sammy Watkins",
+    "playerData": {
+      "name": "BUF",
+      "age": "BUF"
+    }
+  },
+  {
+    "name": "Gary Barnidge",
+    "playerData": {
+      "name": "CLE",
+      "age": "CLE"
+    }
+  },
+  {
+    "name": "Jordan Reed",
+    "playerData": {
+      "name": "WAS",
+      "age": "WAS"
+    }
+  },
+  {
+    "name": "Jeremy Maclin",
+    "playerData": {
+      "name": "KC",
+      "age": "KC"
+    }
+  },
+  {
+    "name": "Darren McFadden",
+    "playerData": {
+      "name": "DAL",
+      "age": "DAL"
+    }
+  },
+  {
+    "name": "Jeremy Hill",
+    "playerData": {
+      "name": "CIN",
+      "age": "CIN"
+    }
+  },
+  {
+    "name": "Los Angeles Rams",
+    "playerData": {
+      "name": "LA",
+      "age": "LA"
+    }
+  },
+  {
+    "name": "Mark Ingram",
+    "playerData": {
+      "name": "NO",
+      "age": "NO"
+    }
+  },
+  {
+    "name": "Blair Walsh",
+    "playerData": {
+      "name": "MIN",
+      "age": "MIN"
+    }
+  },
+  {
+    "name": "Cincinnati Bengals",
+    "playerData": {
+      "name": "CIN",
+      "age": "CIN"
+    }
+  },
+  {
+    "name": "Delanie Walker",
+    "playerData": {
+      "name": "TEN",
+      "age": "TEN"
+    }
+  },
+  {
+    "name": "Greg Olsen",
+    "playerData": {
+      "name": "CAR",
+      "age": "CAR"
+    }
+  },
+  {
+    "name": "Emmanuel Sanders",
+    "playerData": {
+      "name": "DEN",
+      "age": "DEN"
+    }
+  },
+  {
+    "name": "Robbie Gould",
+    "playerData": {
+      "name": "CHI",
+      "age": "CHI"
+    }
+  },
+  {
+    "name": "Josh Brown",
+    "playerData": {
+      "name": "NYG",
+      "age": "NYG"
+    }
+  },
+  {
+    "name": "Jonathan Stewart",
+    "playerData": {
+      "name": "CAR",
+      "age": "CAR"
+    }
+  },
+  {
+    "name": "LeSean McCoy",
+    "playerData": {
+      "name": "BUF",
+      "age": "BUF"
+    }
+  },
+  {
+    "name": "Michael Crabtree",
+    "playerData": {
+      "name": "OAK",
+      "age": "OAK"
+    }
+  },
+  {
+    "name": "Justin Tucker",
+    "playerData": {
+      "name": "BAL",
+      "age": "BAL"
+    }
+  },
+  {
+    "name": "Cairo Santos",
+    "playerData": {
+      "name": "KC",
+      "age": "KC"
+    }
+  },
+  {
+    "name": "Steven Hauschka",
+    "playerData": {
+      "name": "SEA",
+      "age": "SEA"
+    }
+  },
+  {
+    "name": "Jordan Matthews",
+    "playerData": {
+      "name": "PHI",
+      "age": "PHI"
+    }
+  },
+  {
+    "name": "Chandler Catanzaro",
+    "playerData": {
+      "name": "ARI",
+      "age": "ARI"
+    }
+  },
+  {
+    "name": "John Brown",
+    "playerData": {
+      "name": "ARI",
+      "age": "ARI"
+    }
+  },
+  {
+    "name": "T.Y. Hilton",
+    "playerData": {
+      "name": "IND",
+      "age": "IND"
+    }
+  },
+  {
+    "name": "James Jones",
+    "playerData": {
+      "name": "SD",
+      "age": "SD"
+    }
+  },
+  {
+    "name": "Green Bay Packers",
+    "playerData": {
+      "name": "GB",
+      "age": "GB"
+    }
+  },
+  {
+    "name": "Philadelphia Eagles",
+    "playerData": {
+      "name": "PHI",
+      "age": "PHI"
+    }
+  },
+  {
+    "name": "New England Patriots",
+    "playerData": {
+      "name": "NE",
+      "age": "NE"
+    }
+  },
+  {
+    "name": "Tavon Austin",
+    "playerData": {
+      "name": "LA",
+      "age": "LA"
+    }
+  },
+  {
+    "name": "Amari Cooper",
+    "playerData": {
+      "name": "OAK",
+      "age": "OAK"
+    }
+  },
+  {
+    "name": "DeMarco Murray",
+    "playerData": {
+      "name": "TEN",
+      "age": "TEN"
+    }
+  },
+  {
+    "name": "Brandon McManus",
+    "playerData": {
+      "name": "DEN",
+      "age": "DEN"
+    }
+  },
+  {
+    "name": "Ted Ginn",
+    "playerData": {
+      "name": "CAR",
+      "age": "CAR"
+    }
+  },
+  {
+    "name": "Tyler Eifert",
+    "playerData": {
+      "name": "CIN",
+      "age": "CIN"
+    }
+  },
+  {
+    "name": "Ronnie Hillman",
+    "playerData": {
+      "name": "DEN",
+      "age": "DEN"
+    }
+  },
+  {
+    "name": "Mike Evans",
+    "playerData": {
+      "name": "TB",
+      "age": "TB"
+    }
+  },
+  {
+    "name": "Rashad Jennings",
+    "playerData": {
+      "name": "NYG",
+      "age": "NYG"
+    }
+  },
+  {
+    "name": "Indianapolis Colts",
+    "playerData": {
+      "name": "IND",
+      "age": "IND"
+    }
+  },
+  {
+    "name": "Washington Redskins",
+    "playerData": {
+      "name": "WAS",
+      "age": "WAS"
+    }
+  },
+  {
+    "name": "New York Giants",
+    "playerData": {
+      "name": "NYG",
+      "age": "NYG"
+    }
+  },
+  {
+    "name": "Giovani Bernard",
+    "playerData": {
+      "name": "CIN",
+      "age": "CIN"
+    }
+  },
+  {
+    "name": "Josh McCown",
+    "playerData": {
+      "name": "CLE",
+      "age": "CLE"
+    }
+  },
+  {
+    "name": "Dan Bailey",
+    "playerData": {
+      "name": "DAL",
+      "age": "DAL"
+    }
+  },
+  {
+    "name": "Mike Nugent",
+    "playerData": {
+      "name": "CIN",
+      "age": "CIN"
+    }
+  },
+  {
+    "name": "Andrew Luck",
+    "playerData": {
+      "name": "IND",
+      "age": "IND"
+    }
+  },
+  {
+    "name": "Randall Cobb",
+    "playerData": {
+      "name": "GB",
+      "age": "GB"
+    }
+  },
+  {
+    "name": "Blaine Gabbert",
+    "playerData": {
+      "name": "SF",
+      "age": "SF"
+    }
+  },
+  {
+    "name": "Charles Sims",
+    "playerData": {
+      "name": "TB",
+      "age": "TB"
+    }
+  },
+  {
+    "name": "Rueben Randle",
+    "playerData": {
+      "name": "PHI",
+      "age": "PHI"
+    }
+  },
+  {
+    "name": "Chris Boswell",
+    "playerData": {
+      "name": "PIT",
+      "age": "PIT"
+    }
+  },
+  {
+    "name": "Oakland Raiders",
+    "playerData": {
+      "name": "OAK",
+      "age": "OAK"
+    }
+  },
+  {
+    "name": "Tampa Bay Buccaneers",
+    "playerData": {
+      "name": "TB",
+      "age": "TB"
+    }
+  },
+  {
+    "name": "Jeremy Langford",
+    "playerData": {
+      "name": "CHI",
+      "age": "CHI"
+    }
+  },
+  {
+    "name": "Josh Lambo",
+    "playerData": {
+      "name": "SD",
+      "age": "SD"
+    }
+  },
+  {
+    "name": "Dustin Hopkins",
+    "playerData": {
+      "name": "WAS",
+      "age": "WAS"
+    }
+  },
+  {
+    "name": "Mason Crosby",
+    "playerData": {
+      "name": "GB",
+      "age": "GB"
+    }
+  },
+  {
+    "name": "New York Jets",
+    "playerData": {
+      "name": "NYJ",
+      "age": "NYJ"
+    }
+  },
+  {
+    "name": "Travis Benjamin",
+    "playerData": {
+      "name": "SD",
+      "age": "SD"
+    }
+  },
+  {
+    "name": "James Starks",
+    "playerData": {
+      "name": "GB",
+      "age": "GB"
+    }
+  },
+  {
+    "name": "Adam Vinatieri",
+    "playerData": {
+      "name": "IND",
+      "age": "IND"
+    }
+  },
+  {
+    "name": "Kamar Aiken",
+    "playerData": {
+      "name": "BAL",
+      "age": "BAL"
+    }
+  },
+  {
+    "name": "Jason Myers",
+    "playerData": {
+      "name": "JAC",
+      "age": "JAC"
+    }
+  },
+  {
+    "name": "Buffalo Bills",
+    "playerData": {
+      "name": "BUF",
+      "age": "BUF"
+    }
+  },
+  {
+    "name": "Michael Floyd",
+    "playerData": {
+      "name": "ARI",
+      "age": "ARI"
+    }
+  },
+  {
+    "name": "Eddie Lacy",
+    "playerData": {
+      "name": "GB",
+      "age": "GB"
+    }
+  },
+  {
+    "name": "Martavis Bryant",
+    "playerData": {
+      "name": "PIT",
+      "age": "PIT"
+    }
+  },
+  {
+    "name": "T.J. Yeldon",
+    "playerData": {
+      "name": "JAC",
+      "age": "JAC"
+    }
+  },
+  {
+    "name": "Golden Tate",
+    "playerData": {
+      "name": "DET",
+      "age": "DET"
+    }
+  },
+  {
+    "name": "Isaiah Crowell",
+    "playerData": {
+      "name": "CLE",
+      "age": "CLE"
+    }
+  },
+  {
+    "name": "Thomas Rawls",
+    "playerData": {
+      "name": "SEA",
+      "age": "SEA"
+    }
+  },
+  {
+    "name": "Matt Prater",
+    "playerData": {
+      "name": "DET",
+      "age": "DET"
+    }
+  },
+  {
+    "name": "Travis Kelce",
+    "playerData": {
+      "name": "KC",
+      "age": "KC"
+    }
+  },
+  {
+    "name": "Brock Osweiler",
+    "playerData": {
+      "name": "HOU",
+      "age": "HOU"
+    }
+  },
+  {
+    "name": "LeGarrette Blount",
+    "playerData": {
+      "name": "NE",
+      "age": "NE"
+    }
+  },
+  {
+    "name": "Benjamin Watson",
+    "playerData": {
+      "name": "BAL",
+      "age": "BAL"
+    }
+  },
+  {
+    "name": "C.J. Anderson",
+    "playerData": {
+      "name": "DEN",
+      "age": "DEN"
+    }
+  },
+  {
+    "name": "Dan Carpenter",
+    "playerData": {
+      "name": "BUF",
+      "age": "BUF"
+    }
+  },
+  {
+    "name": "Miami Dolphins",
+    "playerData": {
+      "name": "MIA",
+      "age": "MIA"
+    }
+  },
+  {
+    "name": "Atlanta Falcons",
+    "playerData": {
+      "name": "ATL",
+      "age": "ATL"
+    }
+  },
+  {
+    "name": "Sebastian Janikowski",
+    "playerData": {
+      "name": "OAK",
+      "age": "OAK"
+    }
+  },
+  {
+    "name": "Pierre Garcon",
+    "playerData": {
+      "name": "WAS",
+      "age": "WAS"
+    }
+  },
+  {
+    "name": "Karlos Williams",
+    "playerData": {
+      "name": "BUF",
+      "age": "BUF"
+    }
+  },
+  {
+    "name": "Jacksonville Jaguars",
+    "playerData": {
+      "name": "JAC",
+      "age": "JAC"
+    }
+  },
+  {
+    "name": "Willie Snead",
+    "playerData": {
+      "name": "NO",
+      "age": "NO"
+    }
+  },
+  {
+    "name": "Travis Coons",
+    "playerData": {
+      "name": "CLE",
+      "age": "CLE"
+    }
+  },
+  {
+    "name": "Charcandrick West",
+    "playerData": {
+      "name": "KC",
+      "age": "KC"
+    }
+  },
+  {
+    "name": "Julian Edelman",
+    "playerData": {
+      "name": "NE",
+      "age": "NE"
+    }
+  },
+  {
+    "name": "Colin Kaepernick",
+    "playerData": {
+      "name": "SF",
+      "age": "SF"
+    }
+  },
+  {
+    "name": "Donte Moncrief",
+    "playerData": {
+      "name": "IND",
+      "age": "IND"
+    }
+  },
+  {
+    "name": "Marvin Jones",
+    "playerData": {
+      "name": "DET",
+      "age": "DET"
+    }
+  },
+  {
+    "name": "Markus Wheaton",
+    "playerData": {
+      "name": "PIT",
+      "age": "PIT"
+    }
+  },
+  {
+    "name": "Alshon Jeffery",
+    "playerData": {
+      "name": "CHI",
+      "age": "CHI"
+    }
+  },
+  {
+    "name": "Ryan Mathews",
+    "playerData": {
+      "name": "PHI",
+      "age": "PHI"
+    }
+  },
+  {
+    "name": "Phil Dawson",
+    "playerData": {
+      "name": "SF",
+      "age": "SF"
+    }
+  },
+  {
+    "name": "Duke Johnson",
+    "playerData": {
+      "name": "CLE",
+      "age": "CLE"
+    }
+  },
+  {
+    "name": "Connor Barth",
+    "playerData": {
+      "name": "NO",
+      "age": "NO"
+    }
+  },
+  {
+    "name": "Tyler Lockett",
+    "playerData": {
+      "name": "SEA",
+      "age": "SEA"
+    }
+  },
+  {
+    "name": "Richard Rodgers",
+    "playerData": {
+      "name": "GB",
+      "age": "GB"
+    }
+  },
+  {
+    "name": "Detroit Lions",
+    "playerData": {
+      "name": "DET",
+      "age": "DET"
+    }
+  },
+  {
+    "name": "Terrance Williams",
+    "playerData": {
+      "name": "DAL",
+      "age": "DAL"
+    }
+  },
+  {
+    "name": "Chris Johnson",
+    "playerData": {
+      "name": "ARI",
+      "age": "ARI"
+    }
+  },
+  {
+    "name": "Cleveland Browns",
+    "playerData": {
+      "name": "CLE",
+      "age": "CLE"
+    }
+  },
+  {
+    "name": "Javorius Allen",
+    "playerData": {
+      "name": "BAL",
+      "age": "BAL"
+    }
+  },
+  {
+    "name": "Anquan Boldin",
+    "playerData": {
+      "name": "DET",
+      "age": "DET"
+    }
+  },
+  {
+    "name": "Shane Vereen",
+    "playerData": {
+      "name": "NYG",
+      "age": "NYG"
+    }
+  },
+  {
+    "name": "Theo Riddick",
+    "playerData": {
+      "name": "DET",
+      "age": "DET"
+    }
+  },
+  {
+    "name": "Jermaine Kearse",
+    "playerData": {
+      "name": "SEA",
+      "age": "SEA"
+    }
+  },
+  {
+    "name": "Tennessee Titans",
+    "playerData": {
+      "name": "TEN",
+      "age": "TEN"
+    }
+  },
+  {
+    "name": "Stefon Diggs",
+    "playerData": {
+      "name": "MIN",
+      "age": "MIN"
+    }
+  },
+  {
+    "name": "Caleb Sturgis",
+    "playerData": {
+      "name": "PHI",
+      "age": "PHI"
+    }
+  },
+  {
+    "name": "Greg Zuerlein",
+    "playerData": {
+      "name": "LA",
+      "age": "LA"
+    }
+  },
+  {
+    "name": "Alfred Blue",
+    "playerData": {
+      "name": "HOU",
+      "age": "HOU"
+    }
+  },
+  {
+    "name": "Nick Foles",
+    "playerData": {
+      "name": "KC",
+      "age": "KC"
+    }
+  },
+  {
+    "name": "Matt Jones",
+    "playerData": {
+      "name": "WAS",
+      "age": "WAS"
+    }
+  },
+  {
+    "name": "Zach Ertz",
+    "playerData": {
+      "name": "PHI",
+      "age": "PHI"
+    }
+  },
+  {
+    "name": "Johnny Manziel",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Keenan Allen",
+    "playerData": {
+      "name": "SD",
+      "age": "SD"
+    }
+  },
+  {
+    "name": "Darren Sproles",
+    "playerData": {
+      "name": "PHI",
+      "age": "PHI"
+    }
+  },
+  {
+    "name": "Antonio Gates",
+    "playerData": {
+      "name": "SD",
+      "age": "SD"
+    }
+  },
+  {
+    "name": "Torrey Smith",
+    "playerData": {
+      "name": "SF",
+      "age": "SF"
+    }
+  },
+  {
+    "name": "Ameer Abdullah",
+    "playerData": {
+      "name": "DET",
+      "age": "DET"
+    }
+  },
+  {
+    "name": "Baltimore Ravens",
+    "playerData": {
+      "name": "BAL",
+      "age": "BAL"
+    }
+  },
+  {
+    "name": "Justin Forsett",
+    "playerData": {
+      "name": "BAL",
+      "age": "BAL"
+    }
+  },
+  {
+    "name": "Peyton Manning",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Matt Hasselbeck",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Nick Novak",
+    "playerData": {
+      "name": "HOU",
+      "age": "HOU"
+    }
+  },
+  {
+    "name": "Antonio Andrews",
+    "playerData": {
+      "name": "TEN",
+      "age": "TEN"
+    }
+  },
+  {
+    "name": "Rishard Matthews",
+    "playerData": {
+      "name": "TEN",
+      "age": "TEN"
+    }
+  },
+  {
+    "name": "Nate Washington",
+    "playerData": {
+      "name": "NE",
+      "age": "NE"
+    }
+  },
+  {
+    "name": "San Francisco 49ers",
+    "playerData": {
+      "name": "SF",
+      "age": "SF"
+    }
+  },
+  {
+    "name": "Bilal Powell",
+    "playerData": {
+      "name": "NYJ",
+      "age": "NYJ"
+    }
+  },
+  {
+    "name": "New Orleans Saints",
+    "playerData": {
+      "name": "NO",
+      "age": "NO"
+    }
+  },
+  {
+    "name": "Jason Witten",
+    "playerData": {
+      "name": "DAL",
+      "age": "DAL"
+    }
+  },
+  {
+    "name": "Le'Veon Bell",
+    "playerData": {
+      "name": "PIT",
+      "age": "PIT"
+    }
+  },
+  {
+    "name": "Randy Bullock",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Alfred Morris",
+    "playerData": {
+      "name": "DAL",
+      "age": "DAL"
+    }
+  },
+  {
+    "name": "Kenny Britt",
+    "playerData": {
+      "name": "LA",
+      "age": "LA"
+    }
+  },
+  {
+    "name": "San Diego Chargers",
+    "playerData": {
+      "name": "SD",
+      "age": "SD"
+    }
+  },
+  {
+    "name": "Steve Smith",
+    "playerData": {
+      "name": "BAL",
+      "age": "BAL"
+    }
+  },
+  {
+    "name": "Dallas Cowboys",
+    "playerData": {
+      "name": "DAL",
+      "age": "DAL"
+    }
+  },
+  {
+    "name": "Dion Lewis",
+    "playerData": {
+      "name": "NE",
+      "age": "NE"
+    }
+  },
+  {
+    "name": "Chicago Bears",
+    "playerData": {
+      "name": "CHI",
+      "age": "CHI"
+    }
+  },
+  {
+    "name": "Eric Ebron",
+    "playerData": {
+      "name": "DET",
+      "age": "DET"
+    }
+  },
+  {
+    "name": "Joique Bell",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Danny Amendola",
+    "playerData": {
+      "name": "NE",
+      "age": "NE"
+    }
+  },
+  {
+    "name": "James White",
+    "playerData": {
+      "name": "NE",
+      "age": "NE"
+    }
+  },
+  {
+    "name": "Dorial Green-Beckham",
+    "playerData": {
+      "name": "TEN",
+      "age": "TEN"
+    }
+  },
+  {
+    "name": "Jamaal Charles",
+    "playerData": {
+      "name": "KC",
+      "age": "KC"
+    }
+  },
+  {
+    "name": "Ryan Succop",
+    "playerData": {
+      "name": "TEN",
+      "age": "TEN"
+    }
+  },
+  {
+    "name": "Seth Roberts",
+    "playerData": {
+      "name": "OAK",
+      "age": "OAK"
+    }
+  },
+  {
+    "name": "Cole Beasley",
+    "playerData": {
+      "name": "DAL",
+      "age": "DAL"
+    }
+  },
+  {
+    "name": "Kyle Rudolph",
+    "playerData": {
+      "name": "MIN",
+      "age": "MIN"
+    }
+  },
+  {
+    "name": "Andrew Franks",
+    "playerData": {
+      "name": "MIA",
+      "age": "MIA"
+    }
+  },
+  {
+    "name": "Spencer Ware",
+    "playerData": {
+      "name": "KC",
+      "age": "KC"
+    }
+  },
+  {
+    "name": "Marques Colston",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Julius Thomas",
+    "playerData": {
+      "name": "JAC",
+      "age": "JAC"
+    }
+  },
+  {
+    "name": "Devin Funchess",
+    "playerData": {
+      "name": "CAR",
+      "age": "CAR"
+    }
+  },
+  {
+    "name": "Melvin Gordon",
+    "playerData": {
+      "name": "SD",
+      "age": "SD"
+    }
+  },
+  {
+    "name": "DeSean Jackson",
+    "playerData": {
+      "name": "WAS",
+      "age": "WAS"
+    }
+  },
+  {
+    "name": "Jamison Crowder",
+    "playerData": {
+      "name": "WAS",
+      "age": "WAS"
+    }
+  },
+  {
+    "name": "Tim Hightower",
+    "playerData": {
+      "name": "NO",
+      "age": "NO"
+    }
+  },
+  {
+    "name": "Andre Johnson",
+    "playerData": {
+      "name": "TEN",
+      "age": "TEN"
+    }
+  },
+  {
+    "name": "Vincent Jackson",
+    "playerData": {
+      "name": "TB",
+      "age": "TB"
+    }
+  },
+  {
+    "name": "Matt Bryant",
+    "playerData": {
+      "name": "ATL",
+      "age": "ATL"
+    }
+  },
+  {
+    "name": "Zach Miller",
+    "playerData": {
+      "name": "CHI",
+      "age": "CHI"
+    }
+  },
+  {
+    "name": "Philly Brown",
+    "playerData": {
+      "name": "CAR",
+      "age": "CAR"
+    }
+  },
+  {
+    "name": "Jimmy Graham",
+    "playerData": {
+      "name": "SEA",
+      "age": "SEA"
+    }
+  },
+  {
+    "name": "Malcom Floyd",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Jacob Tamme",
+    "playerData": {
+      "name": "ATL",
+      "age": "ATL"
+    }
+  },
+  {
+    "name": "Robert Woods",
+    "playerData": {
+      "name": "BUF",
+      "age": "BUF"
+    }
+  },
+  {
+    "name": "Ryan Mallett",
+    "playerData": {
+      "name": "BAL",
+      "age": "BAL"
+    }
+  },
+  {
+    "name": "Ladarius Green",
+    "playerData": {
+      "name": "PIT",
+      "age": "PIT"
+    }
+  },
+  {
+    "name": "Charles Clay",
+    "playerData": {
+      "name": "BUF",
+      "age": "BUF"
+    }
+  },
+  {
+    "name": "Carlos Hyde",
+    "playerData": {
+      "name": "SF",
+      "age": "SF"
+    }
+  },
+  {
+    "name": "Marshawn Lynch",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Owen Daniels",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Coby Fleener",
+    "playerData": {
+      "name": "NO",
+      "age": "NO"
+    }
+  },
+  {
+    "name": "Jerricho Cotchery",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Cecil Shorts",
+    "playerData": {
+      "name": "HOU",
+      "age": "HOU"
+    }
+  },
+  {
+    "name": "Heath Miller",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Steve Johnson",
+    "playerData": {
+      "name": "SD",
+      "age": "SD"
+    }
+  },
+  {
+    "name": "Devante Parker",
+    "playerData": {
+      "name": "MIA",
+      "age": "MIA"
+    }
+  },
+  {
+    "name": "Matt Cassel",
+    "playerData": {
+      "name": "TEN",
+      "age": "TEN"
+    }
+  },
+  {
+    "name": "Brandon Weeden",
+    "playerData": {
+      "name": "HOU",
+      "age": "HOU"
+    }
+  },
+  {
+    "name": "Kai Forbath",
+    "playerData": {
+      "name": "NO",
+      "age": "NO"
+    }
+  },
+  {
+    "name": "Crockett Gillmore",
+    "playerData": {
+      "name": "BAL",
+      "age": "BAL"
+    }
+  },
+  {
+    "name": "Mike Tolbert",
+    "playerData": {
+      "name": "CAR",
+      "age": "CAR"
+    }
+  },
+  {
+    "name": "Nick Folk",
+    "playerData": {
+      "name": "NYJ",
+      "age": "NYJ"
+    }
+  },
+  {
+    "name": "Dwayne Harris",
+    "playerData": {
+      "name": "NYG",
+      "age": "NYG"
+    }
+  },
+  {
+    "name": "Dontrelle Inman",
+    "playerData": {
+      "name": "SD",
+      "age": "SD"
+    }
+  },
+  {
+    "name": "Brian Hartline",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Joseph Randle",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Will Tye",
+    "playerData": {
+      "name": "NYG",
+      "age": "NYG"
+    }
+  },
+  {
+    "name": "Jerick McKinnon",
+    "playerData": {
+      "name": "MIN",
+      "age": "MIN"
+    }
+  },
+  {
+    "name": "Kenny Stills",
+    "playerData": {
+      "name": "MIA",
+      "age": "MIA"
+    }
+  },
+  {
+    "name": "Martellus Bennett",
+    "playerData": {
+      "name": "NE",
+      "age": "NE"
+    }
+  },
+  {
+    "name": "Dexter McCluster",
+    "playerData": {
+      "name": "TEN",
+      "age": "TEN"
+    }
+  },
+  {
+    "name": "Kendall Wright",
+    "playerData": {
+      "name": "TEN",
+      "age": "TEN"
+    }
+  },
+  {
+    "name": "Mike Wallace",
+    "playerData": {
+      "name": "BAL",
+      "age": "BAL"
+    }
+  },
+  {
+    "name": "Andre Ellington",
+    "playerData": {
+      "name": "ARI",
+      "age": "ARI"
+    }
+  },
+  {
+    "name": "Albert Wilson",
+    "playerData": {
+      "name": "KC",
+      "age": "KC"
+    }
+  },
+  {
+    "name": "Jonathan Grimes",
+    "playerData": {
+      "name": "HOU",
+      "age": "HOU"
+    }
+  },
+  {
+    "name": "Mohamed Sanu",
+    "playerData": {
+      "name": "ATL",
+      "age": "ATL"
+    }
+  },
+  {
+    "name": "Dez Bryant",
+    "playerData": {
+      "name": "DAL",
+      "age": "DAL"
+    }
+  },
+  {
+    "name": "Brent Celek",
+    "playerData": {
+      "name": "PHI",
+      "age": "PHI"
+    }
+  },
+  {
+    "name": "Austin Seferian-Jenkins",
+    "playerData": {
+      "name": "TB",
+      "age": "TB"
+    }
+  },
+  {
+    "name": "Chris Thompson",
+    "playerData": {
+      "name": "WAS",
+      "age": "WAS"
+    }
+  },
+  {
+    "name": "Chris Hogan",
+    "playerData": {
+      "name": "NE",
+      "age": "NE"
+    }
+  },
+  {
+    "name": "Brandon Coleman",
+    "playerData": {
+      "name": "NO",
+      "age": "NO"
+    }
+  },
+  {
+    "name": "Roddy White",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Jordan Cameron",
+    "playerData": {
+      "name": "MIA",
+      "age": "MIA"
+    }
+  },
+  {
+    "name": "Kyle Juszczyk",
+    "playerData": {
+      "name": "BAL",
+      "age": "BAL"
+    }
+  },
+  {
+    "name": "Davante Adams",
+    "playerData": {
+      "name": "GB",
+      "age": "GB"
+    }
+  },
+  {
+    "name": "Chris Polk",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Lance Moore",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "AJ McCarron",
+    "playerData": {
+      "name": "CIN",
+      "age": "CIN"
+    }
+  },
+  {
+    "name": "Arian Foster",
+    "playerData": {
+      "name": "MIA",
+      "age": "MIA"
+    }
+  },
+  {
+    "name": "Khiry Robinson",
+    "playerData": {
+      "name": "NYJ",
+      "age": "NYJ"
+    }
+  },
+  {
+    "name": "Brandon LaFell",
+    "playerData": {
+      "name": "CIN",
+      "age": "CIN"
+    }
+  },
+  {
+    "name": "Marquess Wilson",
+    "playerData": {
+      "name": "CHI",
+      "age": "CHI"
+    }
+  },
+  {
+    "name": "Clive Walford",
+    "playerData": {
+      "name": "OAK",
+      "age": "OAK"
+    }
+  },
+  {
+    "name": "Shaun Draughn",
+    "playerData": {
+      "name": "SF",
+      "age": "SF"
+    }
+  },
+  {
+    "name": "Leonard Hankerson",
+    "playerData": {
+      "name": "BUF",
+      "age": "BUF"
+    }
+  },
+  {
+    "name": "Brandon Bolden",
+    "playerData": {
+      "name": "NE",
+      "age": "NE"
+    }
+  },
+  {
+    "name": "Vance McDonald",
+    "playerData": {
+      "name": "SF",
+      "age": "SF"
+    }
+  },
+  {
+    "name": "Harry Douglas",
+    "playerData": {
+      "name": "TEN",
+      "age": "TEN"
+    }
+  },
+  {
+    "name": "Scott Chandler",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Josh Huff",
+    "playerData": {
+      "name": "PHI",
+      "age": "PHI"
+    }
+  },
+  {
+    "name": "Darren Fells",
+    "playerData": {
+      "name": "ARI",
+      "age": "ARI"
+    }
+  },
+  {
+    "name": "Shayne Graham",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Marcel Reece",
+    "playerData": {
+      "name": "OAK",
+      "age": "OAK"
+    }
+  },
+  {
+    "name": "Jared Cook",
+    "playerData": {
+      "name": "GB",
+      "age": "GB"
+    }
+  },
+  {
+    "name": "C.J. Spiller",
+    "playerData": {
+      "name": "NO",
+      "age": "NO"
+    }
+  },
+  {
+    "name": "Cameron Brate",
+    "playerData": {
+      "name": "TB",
+      "age": "TB"
+    }
+  },
+  {
+    "name": "Quinton Patton",
+    "playerData": {
+      "name": "SF",
+      "age": "SF"
+    }
+  },
+  {
+    "name": "Denard Robinson",
+    "playerData": {
+      "name": "JAC",
+      "age": "JAC"
+    }
+  },
+  {
+    "name": "Fred Jackson",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Mike Gillislee",
+    "playerData": {
+      "name": "BUF",
+      "age": "BUF"
+    }
+  },
+  {
+    "name": "Jarius Wright",
+    "playerData": {
+      "name": "MIN",
+      "age": "MIN"
+    }
+  },
+  {
+    "name": "Zach Hocker",
+    "playerData": {
+      "name": "CIN",
+      "age": "CIN"
+    }
+  },
+  {
+    "name": "Riley Cooper",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Andre Holmes",
+    "playerData": {
+      "name": "OAK",
+      "age": "OAK"
+    }
+  },
+  {
+    "name": "Case Keenum",
+    "playerData": {
+      "name": "LA",
+      "age": "LA"
+    }
+  },
+  {
+    "name": "Darrius Heyward-Bey",
+    "playerData": {
+      "name": "PIT",
+      "age": "PIT"
+    }
+  },
+  {
+    "name": "Bishop Sankey",
+    "playerData": {
+      "name": "TEN",
+      "age": "TEN"
+    }
+  },
+  {
+    "name": "Chris Givens",
+    "playerData": {
+      "name": "PHI",
+      "age": "PHI"
+    }
+  },
+  {
+    "name": "Bryan Walters",
+    "playerData": {
+      "name": "JAC",
+      "age": "JAC"
+    }
+  },
+  {
+    "name": "Zach Mettenberger",
+    "playerData": {
+      "name": "SD",
+      "age": "SD"
+    }
+  },
+  {
+    "name": "Anthony Fasano",
+    "playerData": {
+      "name": "TEN",
+      "age": "TEN"
+    }
+  },
+  {
+    "name": "Tony Romo",
+    "playerData": {
+      "name": "DAL",
+      "age": "DAL"
+    }
+  },
+  {
+    "name": "Tevin Coleman",
+    "playerData": {
+      "name": "ATL",
+      "age": "ATL"
+    }
+  },
+  {
+    "name": "J.J. Nelson",
+    "playerData": {
+      "name": "ARI",
+      "age": "ARI"
+    }
+  },
+  {
+    "name": "Vernon Davis",
+    "playerData": {
+      "name": "WAS",
+      "age": "WAS"
+    }
+  },
+  {
+    "name": "Benny Cunningham",
+    "playerData": {
+      "name": "LA",
+      "age": "LA"
+    }
+  },
+  {
+    "name": "E.J. Manuel",
+    "playerData": {
+      "name": "BUF",
+      "age": "BUF"
+    }
+  },
+  {
+    "name": "Ryan Grant",
+    "playerData": {
+      "name": "WAS",
+      "age": "WAS"
+    }
+  },
+  {
+    "name": "Donald Brown",
+    "playerData": {
+      "name": "NE",
+      "age": "NE"
+    }
+  },
+  {
+    "name": "Keshawn Martin",
+    "playerData": {
+      "name": "NE",
+      "age": "NE"
+    }
+  },
+  {
+    "name": "Ryan Griffin",
+    "playerData": {
+      "name": "HOU",
+      "age": "HOU"
+    }
+  },
+  {
+    "name": "Garrett Celek",
+    "playerData": {
+      "name": "SF",
+      "age": "SF"
+    }
+  },
+  {
+    "name": "Lance Kendricks",
+    "playerData": {
+      "name": "LA",
+      "age": "LA"
+    }
+  },
+  {
+    "name": "Jeremy Butler",
+    "playerData": {
+      "name": "BAL",
+      "age": "BAL"
+    }
+  },
+  {
+    "name": "Jay Ajayi",
+    "playerData": {
+      "name": "MIA",
+      "age": "MIA"
+    }
+  },
+  {
+    "name": "Andre Williams",
+    "playerData": {
+      "name": "NYG",
+      "age": "NYG"
+    }
+  },
+  {
+    "name": "Josh Bellamy",
+    "playerData": {
+      "name": "CHI",
+      "age": "CHI"
+    }
+  },
+  {
+    "name": "Larry Donnell",
+    "playerData": {
+      "name": "NYG",
+      "age": "NYG"
+    }
+  },
+  {
+    "name": "Jaelen Strong",
+    "playerData": {
+      "name": "HOU",
+      "age": "HOU"
+    }
+  },
+  {
+    "name": "Mychal Rivera",
+    "playerData": {
+      "name": "OAK",
+      "age": "OAK"
+    }
+  },
+  {
+    "name": "Ka'Deem Carey",
+    "playerData": {
+      "name": "CHI",
+      "age": "CHI"
+    }
+  },
+  {
+    "name": "Tre Mason",
+    "playerData": {
+      "name": "LA",
+      "age": "LA"
+    }
+  },
+  {
+    "name": "Jimmy Clausen",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Kellen Moore",
+    "playerData": {
+      "name": "DAL",
+      "age": "DAL"
+    }
+  },
+  {
+    "name": "Ahmad Bradshaw",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Maxx Williams",
+    "playerData": {
+      "name": "BAL",
+      "age": "BAL"
+    }
+  },
+  {
+    "name": "Mark Sanchez",
+    "playerData": {
+      "name": "DEN",
+      "age": "DEN"
+    }
+  },
+  {
+    "name": "Justin Hunter",
+    "playerData": {
+      "name": "TEN",
+      "age": "TEN"
+    }
+  },
+  {
+    "name": "Nelson Agholor",
+    "playerData": {
+      "name": "PHI",
+      "age": "PHI"
+    }
+  },
+  {
+    "name": "Adam Humphries",
+    "playerData": {
+      "name": "TB",
+      "age": "TB"
+    }
+  },
+  {
+    "name": "Quincy Enunwa",
+    "playerData": {
+      "name": "NYJ",
+      "age": "NYJ"
+    }
+  },
+  {
+    "name": "Percy Harvin",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Michael Vick",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Cameron Artis-Payne",
+    "playerData": {
+      "name": "CAR",
+      "age": "CAR"
+    }
+  },
+  {
+    "name": "Eddie Royal",
+    "playerData": {
+      "name": "CHI",
+      "age": "CHI"
+    }
+  },
+  {
+    "name": "Kyle Brindza",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Marqise Lee",
+    "playerData": {
+      "name": "JAC",
+      "age": "JAC"
+    }
+  },
+  {
+    "name": "Zach Line",
+    "playerData": {
+      "name": "MIN",
+      "age": "MIN"
+    }
+  },
+  {
+    "name": "Miles Austin",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Jermaine Gresham",
+    "playerData": {
+      "name": "ARI",
+      "age": "ARI"
+    }
+  },
+  {
+    "name": "Lance Dunbar",
+    "playerData": {
+      "name": "DAL",
+      "age": "DAL"
+    }
+  },
+  {
+    "name": "Phillip Dorsett",
+    "playerData": {
+      "name": "IND",
+      "age": "IND"
+    }
+  },
+  {
+    "name": "Travaris Cadet",
+    "playerData": {
+      "name": "NO",
+      "age": "NO"
+    }
+  },
+  {
+    "name": "Robert Turbin",
+    "playerData": {
+      "name": "IND",
+      "age": "IND"
+    }
+  },
+  {
+    "name": "Nick Williams",
+    "playerData": {
+      "name": "ATL",
+      "age": "ATL"
+    }
+  },
+  {
+    "name": "Marc Mariani",
+    "playerData": {
+      "name": "CHI",
+      "age": "CHI"
+    }
+  },
+  {
+    "name": "Andrew Hawkins",
+    "playerData": {
+      "name": "CLE",
+      "age": "CLE"
+    }
+  },
+  {
+    "name": "De'Anthony Thomas",
+    "playerData": {
+      "name": "KC",
+      "age": "KC"
+    }
+  },
+  {
+    "name": "Luke Willson",
+    "playerData": {
+      "name": "SEA",
+      "age": "SEA"
+    }
+  },
+  {
+    "name": "Jeremy Kerley",
+    "playerData": {
+      "name": "DET",
+      "age": "DET"
+    }
+  },
+  {
+    "name": "Ty Montgomery",
+    "playerData": {
+      "name": "GB",
+      "age": "GB"
+    }
+  },
+  {
+    "name": "Josh Scobee",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Greg Jennings",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "DuJuan Harris",
+    "playerData": {
+      "name": "SF",
+      "age": "SF"
+    }
+  },
+  {
+    "name": "Matt Schaub",
+    "playerData": {
+      "name": "ATL",
+      "age": "ATL"
+    }
+  },
+  {
+    "name": "Christine Michael",
+    "playerData": {
+      "name": "SEA",
+      "age": "SEA"
+    }
+  },
+  {
+    "name": "Chris Conley",
+    "playerData": {
+      "name": "KC",
+      "age": "KC"
+    }
+  },
+  {
+    "name": "Brice Butler",
+    "playerData": {
+      "name": "DAL",
+      "age": "DAL"
+    }
+  },
+  {
+    "name": "Jamize Olawale",
+    "playerData": {
+      "name": "OAK",
+      "age": "OAK"
+    }
+  },
+  {
+    "name": "Jonas Gray",
+    "playerData": {
+      "name": "JAC",
+      "age": "JAC"
+    }
+  },
+  {
+    "name": "Orleans Darkwa",
+    "playerData": {
+      "name": "NYG",
+      "age": "NYG"
+    }
+  },
+  {
+    "name": "Rashad Ross",
+    "playerData": {
+      "name": "WAS",
+      "age": "WAS"
+    }
+  },
+  {
+    "name": "Matt Asiata",
+    "playerData": {
+      "name": "MIN",
+      "age": "MIN"
+    }
+  },
+  {
+    "name": "Stedman Bailey",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Damien Williams",
+    "playerData": {
+      "name": "MIA",
+      "age": "MIA"
+    }
+  },
+  {
+    "name": "Taylor Gabriel",
+    "playerData": {
+      "name": "CLE",
+      "age": "CLE"
+    }
+  },
+  {
+    "name": "Ed Dickson",
+    "playerData": {
+      "name": "CAR",
+      "age": "CAR"
+    }
+  },
+  {
+    "name": "Craig Stevens",
+    "playerData": {
+      "name": "TEN",
+      "age": "TEN"
+    }
+  },
+  {
+    "name": "Josh Hill",
+    "playerData": {
+      "name": "NO",
+      "age": "NO"
+    }
+  },
+  {
+    "name": "Michael Hoomanawanui",
+    "playerData": {
+      "name": "NO",
+      "age": "NO"
+    }
+  },
+  {
+    "name": "Adam Thielen",
+    "playerData": {
+      "name": "MIN",
+      "age": "MIN"
+    }
+  },
+  {
+    "name": "Virgil Green",
+    "playerData": {
+      "name": "DEN",
+      "age": "DEN"
+    }
+  },
+  {
+    "name": "Fozzy Whittaker",
+    "playerData": {
+      "name": "CAR",
+      "age": "CAR"
+    }
+  },
+  {
+    "name": "Patrick DiMarco",
+    "playerData": {
+      "name": "ATL",
+      "age": "ATL"
+    }
+  },
+  {
+    "name": "Clay Harbor",
+    "playerData": {
+      "name": "NE",
+      "age": "NE"
+    }
+  },
+  {
+    "name": "T.J. Yates",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Terron Ward",
+    "playerData": {
+      "name": "ATL",
+      "age": "ATL"
+    }
+  },
+  {
+    "name": "Marcedes Lewis",
+    "playerData": {
+      "name": "JAC",
+      "age": "JAC"
+    }
+  },
+  {
+    "name": "Griff Whalen",
+    "playerData": {
+      "name": "MIA",
+      "age": "MIA"
+    }
+  },
+  {
+    "name": "Landry Jones",
+    "playerData": {
+      "name": "PIT",
+      "age": "PIT"
+    }
+  },
+  {
+    "name": "Branden Oliver",
+    "playerData": {
+      "name": "SD",
+      "age": "SD"
+    }
+  },
+  {
+    "name": "Taiwan Jones",
+    "playerData": {
+      "name": "OAK",
+      "age": "OAK"
+    }
+  },
+  {
+    "name": "Zac Stacy",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Rashad Greene",
+    "playerData": {
+      "name": "JAC",
+      "age": "JAC"
+    }
+  },
+  {
+    "name": "Chris Matthews",
+    "playerData": {
+      "name": "BAL",
+      "age": "BAL"
+    }
+  },
+  {
+    "name": "Terrance West",
+    "playerData": {
+      "name": "BAL",
+      "age": "BAL"
+    }
+  },
+  {
+    "name": "Bruce Miller",
+    "playerData": {
+      "name": "SF",
+      "age": "SF"
+    }
+  },
+  {
+    "name": "Jordan Norwood",
+    "playerData": {
+      "name": "DEN",
+      "age": "DEN"
+    }
+  },
+  {
+    "name": "C.J. Fiedorowicz",
+    "playerData": {
+      "name": "HOU",
+      "age": "HOU"
+    }
+  },
+  {
+    "name": "Jaron Brown",
+    "playerData": {
+      "name": "ARI",
+      "age": "ARI"
+    }
+  },
+  {
+    "name": "John Kuhn",
+    "playerData": {
+      "name": "NO",
+      "age": "NO"
+    }
+  },
+  {
+    "name": "David Cobb",
+    "playerData": {
+      "name": "TEN",
+      "age": "TEN"
+    }
+  },
+  {
+    "name": "Bennie Fowler",
+    "playerData": {
+      "name": "DEN",
+      "age": "DEN"
+    }
+  },
+  {
+    "name": "Derek Carrier",
+    "playerData": {
+      "name": "WAS",
+      "age": "WAS"
+    }
+  },
+  {
+    "name": "Geno Smith",
+    "playerData": {
+      "name": "NYJ",
+      "age": "NYJ"
+    }
+  },
+  {
+    "name": "Kerwynn Williams",
+    "playerData": {
+      "name": "ARI",
+      "age": "ARI"
+    }
+  },
+  {
+    "name": "Louis Murphy",
+    "playerData": {
+      "name": "TB",
+      "age": "TB"
+    }
+  },
+  {
+    "name": "Tim Wright",
+    "playerData": {
+      "name": "DET",
+      "age": "DET"
+    }
+  },
+  {
+    "name": "Andre Caldwell",
+    "playerData": {
+      "name": "DET",
+      "age": "DET"
+    }
+  },
+  {
+    "name": "Justin Hardy",
+    "playerData": {
+      "name": "ATL",
+      "age": "ATL"
+    }
+  },
+  {
+    "name": "Donteea Dye",
+    "playerData": {
+      "name": "TB",
+      "age": "TB"
+    }
+  },
+  {
+    "name": "Austin Davis",
+    "playerData": {
+      "name": "CLE",
+      "age": "CLE"
+    }
+  },
+  {
+    "name": "Tyler Kroft",
+    "playerData": {
+      "name": "CIN",
+      "age": "CIN"
+    }
+  },
+  {
+    "name": "Javontee Herndon",
+    "playerData": {
+      "name": "SD",
+      "age": "SD"
+    }
+  },
+  {
+    "name": "Blake Bell",
+    "playerData": {
+      "name": "SF",
+      "age": "SF"
+    }
+  },
+  {
+    "name": "Rhett Ellison",
+    "playerData": {
+      "name": "MIN",
+      "age": "MIN"
+    }
+  },
+  {
+    "name": "Jalston Fowler",
+    "playerData": {
+      "name": "TEN",
+      "age": "TEN"
+    }
+  },
+  {
+    "name": "Roy Helu",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Nick Boyle",
+    "playerData": {
+      "name": "BAL",
+      "age": "BAL"
+    }
+  },
+  {
+    "name": "Dwayne Allen",
+    "playerData": {
+      "name": "IND",
+      "age": "IND"
+    }
+  },
+  {
+    "name": "Cody Parkey",
+    "playerData": {
+      "name": "PHI",
+      "age": "PHI"
+    }
+  },
+  {
+    "name": "TJ Jones",
+    "playerData": {
+      "name": "DET",
+      "age": "DET"
+    }
+  },
+  {
+    "name": "Dion Sims",
+    "playerData": {
+      "name": "MIA",
+      "age": "MIA"
+    }
+  },
+  {
+    "name": "Jake Stoneburner",
+    "playerData": {
+      "name": "LA",
+      "age": "LA"
+    }
+  },
+  {
+    "name": "Kenbrell Thompkins",
+    "playerData": {
+      "name": "NYJ",
+      "age": "NYJ"
+    }
+  },
+  {
+    "name": "Justin Perillo",
+    "playerData": {
+      "name": "GB",
+      "age": "GB"
+    }
+  },
+  {
+    "name": "Knile Davis",
+    "playerData": {
+      "name": "KC",
+      "age": "KC"
+    }
+  },
+  {
+    "name": "Devin Smith",
+    "playerData": {
+      "name": "NYJ",
+      "age": "NYJ"
+    }
+  },
+  {
+    "name": "Devin Street",
+    "playerData": {
+      "name": "DAL",
+      "age": "DAL"
+    }
+  },
+  {
+    "name": "Troy Niklas",
+    "playerData": {
+      "name": "ARI",
+      "age": "ARI"
+    }
+  },
+  {
+    "name": "Tyrell Williams",
+    "playerData": {
+      "name": "SD",
+      "age": "SD"
+    }
+  },
+  {
+    "name": "Chris Gragg",
+    "playerData": {
+      "name": "BUF",
+      "age": "BUF"
+    }
+  },
+  {
+    "name": "Anthony Dixon",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Pierre Thomas",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Myles White",
+    "playerData": {
+      "name": "NYG",
+      "age": "NYG"
+    }
+  },
+  {
+    "name": "Aaron Dobson",
+    "playerData": {
+      "name": "NE",
+      "age": "NE"
+    }
+  },
+  {
+    "name": "Marlon Moore",
+    "playerData": {
+      "name": "CLE",
+      "age": "CLE"
+    }
+  },
+  {
+    "name": "Bruce Ellington",
+    "playerData": {
+      "name": "SF",
+      "age": "SF"
+    }
+  },
+  {
+    "name": "Rex Burkhead",
+    "playerData": {
+      "name": "CIN",
+      "age": "CIN"
+    }
+  },
+  {
+    "name": "Jesse James",
+    "playerData": {
+      "name": "PIT",
+      "age": "PIT"
+    }
+  },
+  {
+    "name": "Lorenzo Taliaferro",
+    "playerData": {
+      "name": "BAL",
+      "age": "BAL"
+    }
+  },
+  {
+    "name": "Akeem Hunt",
+    "playerData": {
+      "name": "HOU",
+      "age": "HOU"
+    }
+  },
+  {
+    "name": "Andre Roberts",
+    "playerData": {
+      "name": "DET",
+      "age": "DET"
+    }
+  },
+  {
+    "name": "Demetrius Harris",
+    "playerData": {
+      "name": "KC",
+      "age": "KC"
+    }
+  },
+  {
+    "name": "Bryce Brown",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Jack Doyle",
+    "playerData": {
+      "name": "IND",
+      "age": "IND"
+    }
+  },
+  {
+    "name": "Chase Coffman",
+    "playerData": {
+      "name": "IND",
+      "age": "IND"
+    }
+  },
+  {
+    "name": "Cooper Helfet",
+    "playerData": {
+      "name": "SEA",
+      "age": "SEA"
+    }
+  },
+  {
+    "name": "Lee Smith",
+    "playerData": {
+      "name": "OAK",
+      "age": "OAK"
+    }
+  },
+  {
+    "name": "Steven Jackson",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Ricardo Lockette",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Keith Mumphery",
+    "playerData": {
+      "name": "HOU",
+      "age": "HOU"
+    }
+  },
+  {
+    "name": "John Phillips",
+    "playerData": {
+      "name": "DEN",
+      "age": "DEN"
+    }
+  },
+  {
+    "name": "Charles Johnson",
+    "playerData": {
+      "name": "MIN",
+      "age": "MIN"
+    }
+  },
+  {
+    "name": "Brandon Pettigrew",
+    "playerData": {
+      "name": "DET",
+      "age": "DET"
+    }
+  },
+  {
+    "name": "Brandon Myers",
+    "playerData": {
+      "name": "TB",
+      "age": "TB"
+    }
+  },
+  {
+    "name": "Kenjon Barner",
+    "playerData": {
+      "name": "PHI",
+      "age": "PHI"
+    }
+  },
+  {
+    "name": "Dan Herron",
+    "playerData": {
+      "name": "BUF",
+      "age": "BUF"
+    }
+  },
+  {
+    "name": "Luke Stocker",
+    "playerData": {
+      "name": "TB",
+      "age": "TB"
+    }
+  },
+  {
+    "name": "Cameron Meredith",
+    "playerData": {
+      "name": "CHI",
+      "age": "CHI"
+    }
+  },
+  {
+    "name": "Cody Latimer",
+    "playerData": {
+      "name": "DEN",
+      "age": "DEN"
+    }
+  },
+  {
+    "name": "Brandon Tate",
+    "playerData": {
+      "name": "CIN",
+      "age": "CIN"
+    }
+  },
+  {
+    "name": "Jason Avant",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Marcus Easley",
+    "playerData": {
+      "name": "BUF",
+      "age": "BUF"
+    }
+  },
+  {
+    "name": "Tony Moeaki",
+    "playerData": {
+      "name": "CHI",
+      "age": "CHI"
+    }
+  },
+  {
+    "name": "Darius Jennings",
+    "playerData": {
+      "name": "CLE",
+      "age": "CLE"
+    }
+  },
+  {
+    "name": "Jerome Simpson",
+    "playerData": {
+      "name": "SF",
+      "age": "SF"
+    }
+  },
+  {
+    "name": "Luke McCown",
+    "playerData": {
+      "name": "NO",
+      "age": "NO"
+    }
+  },
+  {
+    "name": "Marlon Brown",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Michael Campanaro",
+    "playerData": {
+      "name": "BAL",
+      "age": "BAL"
+    }
+  },
+  {
+    "name": "Jared Abbrederis",
+    "playerData": {
+      "name": "GB",
+      "age": "GB"
+    }
+  },
+  {
+    "name": "Kendall Gaskins",
+    "playerData": {
+      "name": "SF",
+      "age": "SF"
+    }
+  },
+  {
+    "name": "Gavin Escobar",
+    "playerData": {
+      "name": "DAL",
+      "age": "DAL"
+    }
+  },
+  {
+    "name": "Josh Freeman",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Will Johnson",
+    "playerData": {
+      "name": "NYG",
+      "age": "NYG"
+    }
+  },
+  {
+    "name": "Lucky Whitehead",
+    "playerData": {
+      "name": "DAL",
+      "age": "DAL"
+    }
+  },
+  {
+    "name": "Wes Welker",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Brian Quick",
+    "playerData": {
+      "name": "LA",
+      "age": "LA"
+    }
+  },
+  {
+    "name": "Michael Burton",
+    "playerData": {
+      "name": "DET",
+      "age": "DET"
+    }
+  },
+  {
+    "name": "Dan Orlovsky",
+    "playerData": {
+      "name": "DET",
+      "age": "DET"
+    }
+  },
+  {
+    "name": "Juwan Thompson",
+    "playerData": {
+      "name": "DEN",
+      "age": "DEN"
+    }
+  },
+  {
+    "name": "Ryan Hewitt",
+    "playerData": {
+      "name": "CIN",
+      "age": "CIN"
+    }
+  },
+  {
+    "name": "Austin Johnson",
+    "playerData": {
+      "name": "NO",
+      "age": "NO"
+    }
+  },
+  {
+    "name": "Brenton Bersin",
+    "playerData": {
+      "name": "CAR",
+      "age": "CAR"
+    }
+  },
+  {
+    "name": "Matt McGloin",
+    "playerData": {
+      "name": "OAK",
+      "age": "OAK"
+    }
+  },
+  {
+    "name": "Mike Davis",
+    "playerData": {
+      "name": "SF",
+      "age": "SF"
+    }
+  },
+  {
+    "name": "Garrett Graham",
+    "playerData": {
+      "name": "DEN",
+      "age": "DEN"
+    }
+  },
+  {
+    "name": "MyCole Pruitt",
+    "playerData": {
+      "name": "MIN",
+      "age": "MIN"
+    }
+  },
+  {
+    "name": "Colt McCoy",
+    "playerData": {
+      "name": "WAS",
+      "age": "WAS"
+    }
+  },
+  {
+    "name": "Bradley Marquez",
+    "playerData": {
+      "name": "LA",
+      "age": "LA"
+    }
+  },
+  {
+    "name": "Stevan Ridley",
+    "playerData": {
+      "name": "DET",
+      "age": "DET"
+    }
+  },
+  {
+    "name": "Russell Shepard",
+    "playerData": {
+      "name": "TB",
+      "age": "TB"
+    }
+  },
+  {
+    "name": "James O'Shaughnessy",
+    "playerData": {
+      "name": "KC",
+      "age": "KC"
+    }
+  },
+  {
+    "name": "Deonte Thompson",
+    "playerData": {
+      "name": "CHI",
+      "age": "CHI"
+    }
+  },
+  {
+    "name": "Chris Owusu",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Alex Tanney",
+    "playerData": {
+      "name": "TEN",
+      "age": "TEN"
+    }
+  },
+  {
+    "name": "Jeff Janis",
+    "playerData": {
+      "name": "GB",
+      "age": "GB"
+    }
+  },
+  {
+    "name": "James Hanna",
+    "playerData": {
+      "name": "DAL",
+      "age": "DAL"
+    }
+  },
+  {
+    "name": "Kellen Davis",
+    "playerData": {
+      "name": "NYJ",
+      "age": "NYJ"
+    }
+  },
+  {
+    "name": "Zurlon Tipton",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Jeff Cumberland",
+    "playerData": {
+      "name": "SD",
+      "age": "SD"
+    }
+  },
+  {
+    "name": "Tre McBride",
+    "playerData": {
+      "name": "TEN",
+      "age": "TEN"
+    }
+  },
+  {
+    "name": "Zach Zenner",
+    "playerData": {
+      "name": "DET",
+      "age": "DET"
+    }
+  },
+  {
+    "name": "Toby Gerhart",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Ryan Nassib",
+    "playerData": {
+      "name": "NYG",
+      "age": "NYG"
+    }
+  },
+  {
+    "name": "Kellen Clemens",
+    "playerData": {
+      "name": "SD",
+      "age": "SD"
+    }
+  },
+  {
+    "name": "Daniel Brown",
+    "playerData": {
+      "name": "BAL",
+      "age": "BAL"
+    }
+  },
+  {
+    "name": "Levine Toilolo",
+    "playerData": {
+      "name": "ATL",
+      "age": "ATL"
+    }
+  },
+  {
+    "name": "Ryan Lindley",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Stepfan Taylor",
+    "playerData": {
+      "name": "ARI",
+      "age": "ARI"
+    }
+  },
+  {
+    "name": "Fitzgerald Toussaint",
+    "playerData": {
+      "name": "PIT",
+      "age": "PIT"
+    }
+  },
+  {
+    "name": "Jim Dray",
+    "playerData": {
+      "name": "BUF",
+      "age": "BUF"
+    }
+  },
+  {
+    "name": "Daniel Fells",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Jarryd Hayne",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Jerome Cunningham",
+    "playerData": {
+      "name": "TEN",
+      "age": "TEN"
+    }
+  },
+  {
+    "name": "Tommy Bohanon",
+    "playerData": {
+      "name": "NYJ",
+      "age": "NYJ"
+    }
+  },
+  {
+    "name": "Corey Fuller",
+    "playerData": {
+      "name": "DET",
+      "age": "DET"
+    }
+  },
+  {
+    "name": "Hakeem Nicks",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Trey Burton",
+    "playerData": {
+      "name": "PHI",
+      "age": "PHI"
+    }
+  },
+  {
+    "name": "Dwayne Bowe",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Josh Robinson",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Jacquizz Rodgers",
+    "playerData": {
+      "name": "CHI",
+      "age": "CHI"
+    }
+  },
+  {
+    "name": "Joey Iosefa",
+    "playerData": {
+      "name": "NE",
+      "age": "NE"
+    }
+  },
+  {
+    "name": "Reggie Bush",
+    "playerData": {
+      "name": "BUF",
+      "age": "BUF"
+    }
+  },
+  {
+    "name": "Kevin Smith",
+    "playerData": {
+      "name": "SEA",
+      "age": "SEA"
+    }
+  },
+  {
+    "name": "Preston Parker",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Terrelle Pryor",
+    "playerData": {
+      "name": "CLE",
+      "age": "CLE"
+    }
+  },
+  {
+    "name": "Greg Salas",
+    "playerData": {
+      "name": "BUF",
+      "age": "BUF"
+    }
+  },
+  {
+    "name": "Ryan Quigley",
+    "playerData": {
+      "name": "JAC",
+      "age": "JAC"
+    }
+  },
+  {
+    "name": "Paul Richardson",
+    "playerData": {
+      "name": "SEA",
+      "age": "SEA"
+    }
+  },
+  {
+    "name": "Charlie Whitehurst",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Nick O'Leary",
+    "playerData": {
+      "name": "BUF",
+      "age": "BUF"
+    }
+  },
+  {
+    "name": "Darrel Young",
+    "playerData": {
+      "name": "CHI",
+      "age": "CHI"
+    }
+  },
+  {
+    "name": "Anthony Sherman",
+    "playerData": {
+      "name": "KC",
+      "age": "KC"
+    }
+  },
+  {
+    "name": "Jay Prosch",
+    "playerData": {
+      "name": "HOU",
+      "age": "HOU"
+    }
+  },
+  {
+    "name": "Rob Housler",
+    "playerData": {
+      "name": "CHI",
+      "age": "CHI"
+    }
+  },
+  {
+    "name": "Derrick Coleman",
+    "playerData": {
+      "name": "SEA",
+      "age": "SEA"
+    }
+  },
+  {
+    "name": "Andrew Quarless",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Jeremy Ross",
+    "playerData": {
+      "name": "NYJ",
+      "age": "NYJ"
+    }
+  },
+  {
+    "name": "B.J. Daniels",
+    "playerData": {
+      "name": "CHI",
+      "age": "CHI"
+    }
+  },
+  {
+    "name": "Cory Harkey",
+    "playerData": {
+      "name": "LA",
+      "age": "LA"
+    }
+  },
+  {
+    "name": "Michael Williams",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Andrew Turzilli",
+    "playerData": {
+      "name": "TEN",
+      "age": "TEN"
+    }
+  },
+  {
+    "name": "Marquise Goodwin",
+    "playerData": {
+      "name": "BUF",
+      "age": "BUF"
+    }
+  },
+  {
+    "name": "T.J. Graham",
+    "playerData": {
+      "name": "PHI",
+      "age": "PHI"
+    }
+  },
+  {
+    "name": "Vincent Brown",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Jordan Todman",
+    "playerData": {
+      "name": "IND",
+      "age": "IND"
+    }
+  },
+  {
+    "name": "Matt LaCosse",
+    "playerData": {
+      "name": "NYG",
+      "age": "NYG"
+    }
+  },
+  {
+    "name": "John Crockett",
+    "playerData": {
+      "name": "GB",
+      "age": "GB"
+    }
+  },
+  {
+    "name": "Geremy Davis",
+    "playerData": {
+      "name": "NYG",
+      "age": "NYG"
+    }
+  },
+  {
+    "name": "Tyler Varga",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Alonzo Harris",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Bernard Pierce",
+    "playerData": {
+      "name": "NYJ",
+      "age": "NYJ"
+    }
+  },
+  {
+    "name": "DeAndrew White",
+    "playerData": {
+      "name": "SF",
+      "age": "SF"
+    }
+  },
+  {
+    "name": "Darren Waller",
+    "playerData": {
+      "name": "BAL",
+      "age": "BAL"
+    }
+  },
+  {
+    "name": "Aaron Ripkowski",
+    "playerData": {
+      "name": "GB",
+      "age": "GB"
+    }
+  },
+  {
+    "name": "Roosevelt Nix",
+    "playerData": {
+      "name": "PIT",
+      "age": "PIT"
+    }
+  },
+  {
+    "name": "Tyler Murphy",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Malcolm Brown",
+    "playerData": {
+      "name": "LA",
+      "age": "LA"
+    }
+  },
+  {
+    "name": "Eric Weems",
+    "playerData": {
+      "name": "ATL",
+      "age": "ATL"
+    }
+  },
+  {
+    "name": "Mario Alford",
+    "playerData": {
+      "name": "CIN",
+      "age": "CIN"
+    }
+  },
+  {
+    "name": "Malcolm Johnson",
+    "playerData": {
+      "name": "CLE",
+      "age": "CLE"
+    }
+  },
+  {
+    "name": "Jerome Felton",
+    "playerData": {
+      "name": "BUF",
+      "age": "BUF"
+    }
+  },
+  {
+    "name": "Chandler Worthy",
+    "playerData": {
+      "name": "NYJ",
+      "age": "NYJ"
+    }
+  },
+  {
+    "name": "Bobby Rainey",
+    "playerData": {
+      "name": "NYG",
+      "age": "NYG"
+    }
+  },
+  {
+    "name": "Kasen Williams",
+    "playerData": {
+      "name": "SEA",
+      "age": "SEA"
+    }
+  },
+  {
+    "name": "Jorvorskie Lane",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Phillip Supernaw",
+    "playerData": {
+      "name": "TEN",
+      "age": "TEN"
+    }
+  },
+  {
+    "name": "Trey Williams",
+    "playerData": {
+      "name": "IND",
+      "age": "IND"
+    }
+  },
+  {
+    "name": "Sean Mannion",
+    "playerData": {
+      "name": "LA",
+      "age": "LA"
+    }
+  },
+  {
+    "name": "Derek Anderson",
+    "playerData": {
+      "name": "CAR",
+      "age": "CAR"
+    }
+  },
+  {
+    "name": "Antone Smith",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Sammie Coates",
+    "playerData": {
+      "name": "PIT",
+      "age": "PIT"
+    }
+  },
+  {
+    "name": "Rod Smith",
+    "playerData": {
+      "name": "DAL",
+      "age": "DAL"
+    }
+  },
+  {
+    "name": "Jonathan Krause",
+    "playerData": {
+      "name": "TB",
+      "age": "TB"
+    }
+  },
+  {
+    "name": "Matt Spaeth",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Scott Simonson",
+    "playerData": {
+      "name": "CAR",
+      "age": "CAR"
+    }
+  },
+  {
+    "name": "Ben Edwards",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Rod Streater",
+    "playerData": {
+      "name": "KC",
+      "age": "KC"
+    }
+  },
+  {
+    "name": "Tony Washington",
+    "playerData": {
+      "name": "JAC",
+      "age": "JAC"
+    }
+  },
+  {
+    "name": "Khari Lee",
+    "playerData": {
+      "name": "CHI",
+      "age": "CHI"
+    }
+  },
+  {
+    "name": "Tarvaris Jackson",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Terrance Magee",
+    "playerData": {
+      "name": "LA",
+      "age": "LA"
+    }
+  },
+  {
+    "name": "E.J. Bibbs",
+    "playerData": {
+      "name": "CLE",
+      "age": "CLE"
+    }
+  },
+  {
+    "name": "Brian Parker",
+    "playerData": {
+      "name": "KC",
+      "age": "KC"
+    }
+  },
+  {
+    "name": "Nic Jacobs",
+    "playerData": {
+      "name": "JAC",
+      "age": "JAC"
+    }
+  },
+  {
+    "name": "Damaris Johnson",
+    "playerData": {
+      "name": "TEN",
+      "age": "TEN"
+    }
+  },
+  {
+    "name": "Cordarrelle Patterson",
+    "playerData": {
+      "name": "MIN",
+      "age": "MIN"
+    }
+  },
+  {
+    "name": "Brittan Golden",
+    "playerData": {
+      "name": "ARI",
+      "age": "ARI"
+    }
+  },
+  {
+    "name": "C.J. Uzomah",
+    "playerData": {
+      "name": "CIN",
+      "age": "CIN"
+    }
+  },
+  {
+    "name": "Tyler Clutts",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Seyi Ajirotutu",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Matt Moore",
+    "playerData": {
+      "name": "MIA",
+      "age": "MIA"
+    }
+  },
+  {
+    "name": "MarQueis Gray",
+    "playerData": {
+      "name": "MIA",
+      "age": "MIA"
+    }
+  },
+  {
+    "name": "Matthew Mulligan",
+    "playerData": {
+      "name": "DET",
+      "age": "DET"
+    }
+  },
+  {
+    "name": "Kendall Hunter",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "George Winn",
+    "playerData": {
+      "name": "DET",
+      "age": "DET"
+    }
+  },
+  {
+    "name": "Asante Cleveland",
+    "playerData": {
+      "name": "SD",
+      "age": "SD"
+    }
+  },
+  {
+    "name": "Shaun Hill",
+    "playerData": {
+      "name": "MIN",
+      "age": "MIN"
+    }
+  },
+  {
+    "name": "Devin Hester",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Bryan Anger",
+    "playerData": {
+      "name": "TB",
+      "age": "TB"
+    }
+  },
+  {
+    "name": "Walter Powell",
+    "playerData": {
+      "name": "BUF",
+      "age": "BUF"
+    }
+  },
+  {
+    "name": "Seantavius Jones",
+    "playerData": {
+      "name": "KC",
+      "age": "KC"
+    }
+  },
+  {
+    "name": "Cedric Peerman",
+    "playerData": {
+      "name": "CIN",
+      "age": "CIN"
+    }
+  },
+  {
+    "name": "Evan Spencer",
+    "playerData": {
+      "name": "TB",
+      "age": "TB"
+    }
+  },
+  {
+    "name": "Alex Smith",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Joe Banyard",
+    "playerData": {
+      "name": "JAC",
+      "age": "JAC"
+    }
+  },
+  {
+    "name": "Chris Jones",
+    "playerData": {
+      "name": "DAL",
+      "age": "DAL"
+    }
+  },
+  {
+    "name": "Brian Leonhardt",
+    "playerData": {
+      "name": "MIN",
+      "age": "MIN"
+    }
+  },
+  {
+    "name": "Mike Scifres",
+    "playerData": {
+      "name": "CAR",
+      "age": "CAR"
+    }
+  },
+  {
+    "name": "Neal Sterling",
+    "playerData": {
+      "name": "JAC",
+      "age": "JAC"
+    }
+  },
+  {
+    "name": "Mike Leach",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Thomas Morstead",
+    "playerData": {
+      "name": "NO",
+      "age": "NO"
+    }
+  },
+  {
+    "name": "Rico Richardson",
+    "playerData": {
+      "name": "SD",
+      "age": "SD"
+    }
+  },
+  {
+    "name": "Chase Daniel",
+    "playerData": {
+      "name": "PHI",
+      "age": "PHI"
+    }
+  },
+  {
+    "name": "Geoff Swaim",
+    "playerData": {
+      "name": "DAL",
+      "age": "DAL"
+    }
+  },
+  {
+    "name": "Chase Reynolds",
+    "playerData": {
+      "name": "LA",
+      "age": "LA"
+    }
+  },
+  {
+    "name": "Kevin Norwood",
+    "playerData": {
+      "name": "CAR",
+      "age": "CAR"
+    }
+  },
+  {
+    "name": "Kevin Huber",
+    "playerData": {
+      "name": "CIN",
+      "age": "CIN"
+    }
+  },
+  {
+    "name": "Quan Bray",
+    "playerData": {
+      "name": "IND",
+      "age": "IND"
+    }
+  },
+  {
+    "name": "LaMichael James",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Tim Masthay",
+    "playerData": {
+      "name": "GB",
+      "age": "GB"
+    }
+  },
+  {
+    "name": "Clark Harris",
+    "playerData": {
+      "name": "CIN",
+      "age": "CIN"
+    }
+  },
+  {
+    "name": "Vince Mayle",
+    "playerData": {
+      "name": "DAL",
+      "age": "DAL"
+    }
+  },
+  {
+    "name": "Jon Ryan",
+    "playerData": {
+      "name": "SEA",
+      "age": "SEA"
+    }
+  },
+  {
+    "name": "Kyle Nelson",
+    "playerData": {
+      "name": "SF",
+      "age": "SF"
+    }
+  },
+  {
+    "name": "Johnny Hekker",
+    "playerData": {
+      "name": "LA",
+      "age": "LA"
+    }
+  },
+  {
+    "name": "Quinton Dunbar",
+    "playerData": {
+      "name": "WAS",
+      "age": "WAS"
+    }
+  },
+  {
+    "name": "Kapri Bibbs",
+    "playerData": {
+      "name": "DEN",
+      "age": "DEN"
+    }
+  },
+  {
+    "name": "Pat McAfee",
+    "playerData": {
+      "name": "IND",
+      "age": "IND"
+    }
+  },
+  {
+    "name": "Sam Koch",
+    "playerData": {
+      "name": "BAL",
+      "age": "BAL"
+    }
+  },
+  {
+    "name": "Teddy Williams",
+    "playerData": {
+      "name": "CAR",
+      "age": "CAR"
+    }
+  },
+  {
+    "name": "Jordan Gay",
+    "playerData": {
+      "name": "BUF",
+      "age": "BUF"
+    }
+  },
+  {
+    "name": "Matt Slater",
+    "playerData": {
+      "name": "NE",
+      "age": "NE"
+    }
+  },
+  {
+    "name": "Dri Archer",
+    "playerData": {
+      "name": "BUF",
+      "age": "BUF"
+    }
+  },
+  {
+    "name": "Brad Nortman",
+    "playerData": {
+      "name": "JAC",
+      "age": "JAC"
+    }
+  },
+  {
+    "name": "Kaelin Clay",
+    "playerData": {
+      "name": "BAL",
+      "age": "BAL"
+    }
+  },
+  {
+    "name": "Tony Lippett",
+    "playerData": {
+      "name": "MIA",
+      "age": "MIA"
+    }
+  },
+  {
+    "name": "Colton Schmidt",
+    "playerData": {
+      "name": "BUF",
+      "age": "BUF"
+    }
+  },
+  {
+    "name": "Matt Hazel",
+    "playerData": {
+      "name": "MIA",
+      "age": "MIA"
+    }
+  },
+  {
+    "name": "Brandon Williams",
+    "playerData": {
+      "name": "SEA",
+      "age": "SEA"
+    }
+  },
+  {
+    "name": "Chris Davis",
+    "playerData": {
+      "name": "SF",
+      "age": "SF"
+    }
+  },
+  {
+    "name": "Matt Bosher",
+    "playerData": {
+      "name": "ATL",
+      "age": "ATL"
+    }
+  },
+  {
+    "name": "Scott Tolzien",
+    "playerData": {
+      "name": "IND",
+      "age": "IND"
+    }
+  },
+  {
+    "name": "Joe Webb",
+    "playerData": {
+      "name": "CAR",
+      "age": "CAR"
+    }
+  },
+  {
+    "name": "Trevor Siemian",
+    "playerData": {
+      "name": "DEN",
+      "age": "DEN"
+    }
+  },
+  {
+    "name": "Cierre Wood",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Jimmy Garoppolo",
+    "playerData": {
+      "name": "NE",
+      "age": "NE"
+    }
+  },
+  {
+    "name": "Corey Grant",
+    "playerData": {
+      "name": "JAC",
+      "age": "JAC"
+    }
+  },
+  {
+    "name": "Drew Stanton",
+    "playerData": {
+      "name": "ARI",
+      "age": "ARI"
+    }
+  },
+  {
+    "name": "David Johnson",
+    "playerData": {
+      "name": "PIT",
+      "age": "PIT"
+    }
+  },
+  {
+    "name": "Chris Harper",
+    "playerData": {
+      "name": "NE",
+      "age": "NE"
+    }
+  },
+  {
+    "name": "Isaiah Pead",
+    "playerData": {
+      "name": "MIA",
+      "age": "MIA"
+    }
+  },
+  {
+    "name": "Denarius Moore",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Frankie Hammond",
+    "playerData": {
+      "name": "KC",
+      "age": "KC"
+    }
+  },
+  {
+    "name": "Marcus Murphy",
+    "playerData": {
+      "name": "NO",
+      "age": "NO"
+    }
+  },
+  {
+    "name": "Sean Renfree",
+    "playerData": {
+      "name": "ATL",
+      "age": "ATL"
+    }
+  },
+  {
+    "name": "Jacoby Jones",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  },
+  {
+    "name": "Raheem Mostert",
+    "playerData": {
+      "name": "CLE",
+      "age": "CLE"
+    }
+  },
+  {
+    "name": "Glenn Winston",
+    "playerData": {
+      "name": "CLE",
+      "age": "CLE"
+    }
+  },
+  {
+    "name": "Marcus Thigpen",
+    "playerData": {
+      "name": "FA",
+      "age": "FA"
+    }
+  }
+]

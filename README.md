@@ -6,9 +6,9 @@ install github repository
 install dependencies for node
 ```npm install```
 
-```conda install pymongo```
-```conda install numpy```
-```conda install sklearn``` 
+```conda install pymongo
+conda install numpy
+conda install sklearn``` 
 
 in a separatge command line
 
@@ -23,6 +23,6 @@ in another command prompt run the server
 in a browser go to `http://localhost:3000`
 
 Todo(dev):
--implement datascraping and automation
--implement machine learning in node instead of python
--calculate errors
+- implement datascraping and automation
+- implement machine learning in node instead of python
+- calculate errors
